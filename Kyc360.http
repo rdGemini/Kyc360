@@ -1,0 +1,6 @@
+@Kyc360_HostAddress = http://localhost:5265
+
+GET {{Kyc360_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
